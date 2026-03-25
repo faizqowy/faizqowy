@@ -78,14 +78,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/miurayuuki05/miurayuuki05/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/miurayuuki05/count.svg?"  />
-</div>
-
 ###
