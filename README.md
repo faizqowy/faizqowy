@@ -27,11 +27,10 @@ With a background spanning full-stack enterprise platforms and AI research, I th
 ---
 
 ### 📈 GitHub Stats
-*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual username!)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizqowy&layout=compact&theme=vision-friendly-dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizqowy&show_icons=true&theme=vision-friendly-dark)
 
 ---
 *Always open to discussing AI integration, robust SaaS architectures, and innovative engineering roles.*
