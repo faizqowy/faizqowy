@@ -1,81 +1,37 @@
-<h2 align="left">Hi 👋! My name is Faiz and I'm a Software Engineer</h2>
+# Hi there, I'm Faiz 👋
 
-###
+I am a Software Engineer who bridges the gap between scalable backend architecture and artificial intelligence. I specialize in building robust, production-ready systems and integrating machine learning models to solve complex, real-world problems.
 
-<p>🖥 Working on Stuff </p>
-<p>📖 Learning some Deeplearning and Computer Vision </p>
-<p>📄 Doing some side project and research </p>
+With a background spanning full-stack enterprise platforms and AI research, I thrive in environments where I can architect secure databases and deploy intelligent features.
 
-###
+### 🚀 Current Focus & Expertise
+* ⚙️ **Software Engineering:** Architecting secure, multi-tenant backend systems for enterprise and healthcare platforms using Next.js, Laravel, PostgreSQL, and Supabase.
+* 🧠 **AI Integration:** Implementing and optimizing computer vision models (YOLO architectures) and exploring multimodal LLMs for practical software applications.
+* 🔒 **System Reliability:** Designing formal verification tools using SMT solvers to ensure microservice orchestration correctness.
 
-<hr style="height:1px" />
+### 🏆 Highlighted Engineering & AI Work
+* **Enterprise Med-Tech:** Engineered the core backend for a Medical ERP platform, implementing strict Row Level Security (RLS) for multi-tenant data isolation.
+* **AI-Powered mHealth:** Developed a comprehensive health application utilizing YOLOv8 to analyze food images and estimate real-time nutritional content.
+* **HelioVerify:** Created a formal verification tool based on Satisfiability Modulo Theories (SMT) for analyzing microservice choreographies.
+* **AI Research & Optimization:** Published research on prefetching cache optimization utilizing Graph Neural Networks (GNNs).
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizqowy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizqowy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 💻 Tech Stack
 
-###
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend & Frontend** | Node.js, Next.js, Laravel, TypeScript, JavaScript |
+| **Databases & Cloud** | PostgreSQL, MySQL, Supabase, Firebase, Docker |
+| **AI & Machine Learning** | Python, TensorFlow, PyTorch, YOLOv8 |
+| **Specialized Tools** | Z3 Solver, C++, Git, REST APIs |
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ214NXZpMTJiN2x5ajZzbTUybjljbmIzaHR6cWljOGF2amNhNG1zMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.gif"  />
+---
 
-###
+### 📈 GitHub Stats
+*(Note: Replace `YOUR_GITHUB_USERNAME` with your actual username!)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark)
 
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark)
 
-<div align="left">
-  <a href="https://www.youtube.com/@miura8404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/mryk.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:faizislamicqowy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/faiz-islamic-qowy-7b634b1bb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-###
+---
+*Always open to discussing AI integration, robust SaaS architectures, and innovative engineering roles.*
